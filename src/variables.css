@@ -1,0 +1,16 @@
+:root {
+  /** Colours **/
+  --clr-orange: hsl(25, 97%, 53%);
+  --clr-white: hsl(0, 100%, 100%);
+  --clr-grey500: hsl(217, 12%, 63%);
+  --clr-grey900: hsl(213, 20%, 18%);
+  --clr-grey950: hsl(228, 11%, 9%);
+
+  /** Typography **/
+  --font-paragraph: 15px;
+
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+  --ff-base: "Overpass", sans-serif;
+}

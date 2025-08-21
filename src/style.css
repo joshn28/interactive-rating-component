@@ -71,12 +71,12 @@ h6 {
 }
 
 /** Global CSS **/
-/* We recommend writing minimal component-specific CSS here */
+
 main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 98vh;
+  height: 96vh;
 }
 
 /** Attribution CSS **/
